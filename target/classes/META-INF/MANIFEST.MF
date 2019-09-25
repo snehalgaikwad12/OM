@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: OM-MNSWebApp
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: NS54146
+Implementation-Vendor-Id: com.zensar.om.mns
+Build-Jdk: 1.8.0_151
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/OM-MNSWebApp
+Created-By: Maven Integration for Eclipse
+
